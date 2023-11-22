@@ -1,0 +1,52 @@
+ body {
+    background: url(../img/Gallery\ of\ Hotel\ Dua\ _\ Koan\ Design\ \ -\ 4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    /* O BACKGROUND FICA FIXADO */
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+ 
+.hTerabithia h1 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.hTerabithia p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.hTerabithia .btn {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.btn button{
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+    border: 1px solid white;
+    padding: 0 25px;
+    font-size: 15px;
+    font-family: "Kanit", sans-serif;
+    transition: 1.3s;
+    margin: 5px;
+    cursor: pointer;
+    background: transparent;
+    color: white;
+
+}
+
+.hTerabithia .footer footer {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+
+}
